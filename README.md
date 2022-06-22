@@ -1,5 +1,5 @@
 ## Who is the NOP?
-Just a normal Student. :>
+Just a normal Student :>
 
 ## What does the NOP do?
 - 3D Printer
@@ -9,6 +9,13 @@ Just a normal Student. :>
 - Research on Operating System (I haven't done much of that lately.)
 
 etc...
+
+## Likes
+- Game
+  - Valorant, Minecraft
+
+## Future
+I don't know. (It is Really. I'd like to know myself...)
 
 <!---
 NOPLAB/NOPLAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
