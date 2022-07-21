@@ -4,15 +4,14 @@ Just a normal Student :>
 ## What does the NOP do?
 - 3D Printer
 - Game development using Unity or Unreal Engine 
-- Research on Robot
-- Research on Machine Learning
-- Research on Operating System (I haven't done much of that lately.)
+- Robot
+- CPU
+- Machine Learning (Not recently)
+- Operating System (Not recently)
 
 etc...
 
 ## Likes
-- Game
-  - Valorant, Minecraft
 
 ## Future
 I don't know. (It is Really. I'd like to know myself...)
