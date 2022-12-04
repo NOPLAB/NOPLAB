@@ -1,5 +1,5 @@
 ## Who is the NOP?
-Just a normal Student :>
+Just a Student
 
 ## What does the NOP do?
 - 3D Printer
