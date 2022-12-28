@@ -6,11 +6,10 @@ Just a Student
 
 - Vulkan API
 - 3D Printer
-- Game development using Unity or Unreal Engine
+- Unity
 - Robot
 - CPU
-- Machine Learning (Not recently)
-- Operating System (Not recently)
+- Operating System
 
 etc...
 
