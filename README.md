@@ -8,7 +8,7 @@ Just a Student
 - 3D Printer
 - Unity
 - Robot
-- CPU
+- FPGA
 - Operating System
 
 etc...
