@@ -1,7 +1,3 @@
-## Who is the NOP?
-
-Just a Student
-
 ## What does the NOP do?
 
 - Vulkan API
