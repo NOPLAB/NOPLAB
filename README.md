@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOPLAB)](https://github.com/anuraghazra/github-readme-stats)
+
 ## What does the NOP do?
 
 - Vulkan API
