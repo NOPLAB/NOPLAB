@@ -9,7 +9,6 @@
 - 3D Printer
 - Unity
 - Robot
-- FPG
 - Operating System
 
 etc...
