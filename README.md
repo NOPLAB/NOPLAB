@@ -5,10 +5,9 @@
 
 ## What does the NOP do?
 
-- Vulkan API
-- 3D Printer
-- Unity
 - Robot
+- Unity
+- 3D Printer
 - Operating System
 
 etc...
