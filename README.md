@@ -11,9 +11,9 @@
 - LowLayer
 - WebApplication
 
-## Skill
+## Like
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cs,ts,unity,dotnet,nextjs,arduino,git,linux,vscode,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cs,ts,unity,dotnet,arduino,git,linux,vscode,neovim)](https://skillicons.dev)
 
 <!---
 NOPLAB/NOPLAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
