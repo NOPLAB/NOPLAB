@@ -1,4 +1,4 @@
-## Status
+## Activities
 
 <p align="left"> 
   <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api?username=NOPLAB&theme=discord_old_blurple&show_icons=true" />
