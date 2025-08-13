@@ -2,11 +2,11 @@
 
 <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api?username=NOPLAB&theme=discord_old_blurple&show_icons=true" />
 
-## What I'm Lerning
+## What I'm lerning
 
 - Robot
-- LowLayer
-- WebApplication
+- Low layer
+- Web app
 
 ## Like
 
