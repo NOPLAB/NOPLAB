@@ -5,11 +5,11 @@
 ![NOPLAB's Stats](https://github-readme-stats.vercel.app/api?username=NOPLAB&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![NOPLAB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NOPLAB&theme=dark&hide_border=true)
 
-# What I'm lerning
+# I'm lerning
 
-- Robot
-- Low layer
-- Web app
+- Robotics
+- LowLayer
+- WebApp
 
 # Like
 
