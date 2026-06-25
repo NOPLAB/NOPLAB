@@ -1,21 +1,36 @@
-# Hi! I'm nop! 💾
+<h1 align="center">Hi there, I'm nop! 💾</h1>
 
-# I'm lerning
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Robotics+%2F+Reinforcement+Learning+%2F+Low+Layer;Rust+%7C+C%2FC%2B%2B+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
+</p>
 
-- Robotics
-- LowLayer
-- WebApp
+---
 
-# Activities
+## 🧠 Currently Learning / Interests
 
-![NOPLAB's Stats](https://github-readme-stats.vercel.app/api?username=NOPLAB&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![NOPLAB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NOPLAB&theme=dark&hide_border=true)
+- 🤖 **Robotics** — Autonomous mobile robots, path planning, ROS2, VLA & E2E navigation
+- 🎮 **Reinforcement Learning** — Isaac Lab, Genesis, bipedal locomotion
+- 🎛️ **Control Theory** — LQR / H∞ / MPC / SMC
+- ⚙️ **Low Layer & Embedded** — STM32, FPGA (Vitis HLS)
+- ☸️ **Infra / MLOps** — Proxmox · Ceph · Kubernetes homelab, MLflow / ArgoCD
+- 📐 **Math** — Set theory & topology, linear algebra, probability & statistics
+- 🌐 **Web App**
 
-# Like
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,cs,ts,matlab,unity,react,docker,git,vscode,neovim,arch,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,py,ts,matlab,unity,react,docker,kubernetes,git,linux,vscode,neovim,arch&perline=8" />
+  </a>
+</p>
 
-<!---
-NOPLAB/NOPLAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=NOPLAB&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOPLAB&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NOPLAB&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
