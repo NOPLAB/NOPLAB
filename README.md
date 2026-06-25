@@ -18,19 +18,29 @@
 
 ## 🛠️ Tech Stack
 
+<p align="center"><b>🧩 Languages</b></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,py,ts,matlab,unity,react,docker,kubernetes,git,linux,vscode,neovim,arch&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,py,ts,matlab,bash&perline=8" />
+</p>
+
+<p align="center"><b>🤖 Robotics &amp; ML</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ros,pytorch,tensorflow,opencv,sklearn,unity&perline=6" />
+</p>
+
+<p align="center"><b>☸️ Infra &amp; DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana,prometheus,linux,arch,ubuntu&perline=8" />
+</p>
+
+<p align="center"><b>🌐 Web &amp; Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,git,githubactions,vscode,neovim,cmake,latex&perline=7" />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="165px" src="https://github-readme-stats.vercel.app/api?username=NOPLAB&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOPLAB&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NOPLAB&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img height="165px" src="https://streak-stats.demolab.com/?user=NOPLAB&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
