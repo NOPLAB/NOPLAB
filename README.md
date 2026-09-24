@@ -13,7 +13,7 @@
 - ⚙️ **Low-level & embedded systems** — Rust/C development for motor control, sensor interfaces, and robot communication protocols ([g4-driver](https://github.com/NOPLAB/g4-driver), [sh2-rs](https://github.com/NOPLAB/sh2-rs)).
 - 🦀 **Rust systems** — distributed robotics software, typed messaging, and developer tools ([reiny](https://github.com/MechanicalGirlDev/reiny)).
 - 🌐 **Full-stack development** — TypeScript web apps and interfaces backed by systems and infrastructure work ([simple-pos-system](https://github.com/NOPLAB/simple-pos-system), [noplab.github.io](https://github.com/NOPLAB/noplab.github.io)).
-- ☸️ **Infrastructure & MLOps** — Proxmox/Ceph homelab, AWS, Podman and Kubernetes workloads, self-hosted GPUs, GitOps, and experiment workflows.
+- ☸️ **Infrastructure & MLOps** — Proxmox/Ceph homelab, AWS and Runpod workflows, Podman and Kubernetes workloads, GitOps, and experiment workflows.
 
 ## 🛠️ Tech Stack
 
@@ -30,12 +30,12 @@
 
 <p align="center"><b>☸️ Infra &amp; DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,grafana,prometheus,postgres,linux,arch,ubuntu,nix&perline=11" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,nginx,grafana,prometheus,postgres,linux,arch,ubuntu,nix&perline=6" />
 </p>
-<p align="center">Proxmox VE · Podman</p>
+<p align="center">Proxmox VE · Podman · Runpod</p>
 
 <p align="center"><b>🌐 Web &amp; Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,astro,git,githubactions,vscode,visualstudio,neovim,cmake,latex&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,astro,git,github,githubactions,vscode,visualstudio,neovim,cmake,latex&perline=5" />
 </p>
 <p align="center">Firefox</p>
