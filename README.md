@@ -6,13 +6,13 @@
 
 ## 🧠 What I Build
 
-- 🤖 **Robot autonomy** — ROS 2 navigation, value iteration planning, and vision-language navigation for mobile robots ([rvln](https://github.com/NOPLAB/rvln), [value_iteration3_cpp](https://github.com/NOPLAB/value_iteration3_cpp)).
+- 🤖 **Robot autonomy** — ROS 2 navigation, value iteration planning, and vision-language navigation for mobile robots.
 - 🦾 **Robot control** — humanoid locomotion, teleoperation, and whole-body control.
-- 🧠 **Machine learning** — VLA models, imitation and reinforcement learning for robots, and training workflows ([crane_x7_vla](https://github.com/NOPLAB/crane_x7_vla), [imitation-learning](https://github.com/NOPLAB/imitation-learning)).
-- 🎮 **CAD, simulation & graphics** — mechanical CAD in Autodesk Inventor and Fusion 360, PCB design with KiCad, physics simulation, and Rust 3D rendering with wgpu ([rein](https://github.com/NOPLAB/rein)).
-- ⚙️ **Low-level & embedded systems** — Rust/C development for motor control, sensor interfaces, and robot communication protocols ([g4-driver](https://github.com/NOPLAB/g4-driver), [sh2-rs](https://github.com/NOPLAB/sh2-rs)).
-- 🦀 **Rust systems** — distributed robotics software, typed messaging, and developer tools ([reiny](https://github.com/MechanicalGirlDev/reiny)).
-- 🌐 **Full-stack development** — TypeScript web apps and interfaces backed by systems and infrastructure work ([simple-pos-system](https://github.com/NOPLAB/simple-pos-system), [noplab.github.io](https://github.com/NOPLAB/noplab.github.io)).
+- 🧠 **Machine learning** — VLA models, imitation and reinforcement learning for robots, and training workflows.
+- 🎮 **CAD, simulation & graphics** — mechanical CAD in Autodesk Inventor and Fusion 360, PCB design with KiCad, physics simulation, and Rust 3D rendering with wgpu.
+- ⚙️ **Low-level & embedded systems** — Rust/C development for motor control, sensor interfaces, and robot communication protocols.
+- 🦀 **Rust systems** — distributed robotics software, typed messaging, and developer tools.
+- 🌐 **Full-stack development** — TypeScript web apps and interfaces backed by systems and infrastructure work.
 - ☸️ **Infrastructure & MLOps** — Proxmox/Ceph homelab, AWS and Runpod workflows, Podman and Kubernetes workloads, GitOps, and experiment workflows.
 
 ## 🛠️ Tech Stack
