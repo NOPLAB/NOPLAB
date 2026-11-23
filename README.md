@@ -4,17 +4,6 @@
 
 ---
 
-## 🧠 What I Build
-
-- 🤖 **Robot autonomy** — ROS 2 navigation, value iteration planning, and vision-language navigation for mobile robots.
-- 🦾 **Robot control** — humanoid locomotion, teleoperation, and whole-body control.
-- 🧠 **Machine learning** — VLA models, imitation and reinforcement learning for robots, and training workflows.
-- 🎮 **CAD, simulation & graphics** — mechanical CAD in Autodesk Inventor and Fusion 360, PCB design with KiCad, physics simulation, and Rust 3D rendering with wgpu.
-- ⚙️ **Low-level & embedded systems** — Rust/C development for motor control, sensor interfaces, and robot communication protocols.
-- 🦀 **Rust systems** — distributed robotics software, typed messaging, and developer tools.
-- 🌐 **Full-stack development** — TypeScript web apps and interfaces backed by systems and infrastructure work.
-- ☸️ **Infrastructure & MLOps** — Proxmox/Ceph homelab, AWS and Runpod workflows, Podman and Kubernetes workloads, GitOps, and experiment workflows.
-
 ## 🛠️ Tech Stack
 
 <p align="center"><b>🧩 Languages</b></p>
