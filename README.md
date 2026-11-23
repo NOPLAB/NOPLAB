@@ -2,8 +2,6 @@
 
 <p align="center">Robotics &amp; Full-Stack Engineer — working across low-level systems, robot control, machine learning, and web apps.</p>
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center"><b>🧩 Languages</b></p>
